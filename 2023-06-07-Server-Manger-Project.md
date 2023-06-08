@@ -5,4 +5,4 @@ categories: [Frontend, Angular]
 tags: [angular, frontend, typescript]
 ---
 
-This is an angular project which I am building alongside with the Udemy Angular course. It can be accessed at [https://gaurishg.github.io/server-manager](https://gaurishg.github.io/server-manager)
+This is an angular project which I am building alongside with the Udemy Angular course. It can be accessed at [https://gaurishg.github.io/server-manager](https://gaurishg.github.io/server-manager){:target=_blank}
