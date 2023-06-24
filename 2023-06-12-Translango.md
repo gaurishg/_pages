@@ -32,5 +32,31 @@ We had used following technologies in the project:
 - Cloud Services: Google Cloud Translate for translation; Google Cloud Vision for object detection; Google Cloud Run for backend code deployment and CI/CD for backend, Google Cloud Storage for storing images; AWS Amplify for deploying and setting up CI/CD for frontend
 - Docker: We used docker locally as well for deploying our app on the cloud
 
-You can see the site at [https://gaurishg.github.io/TranslanGo/](https://gaurishg.github.io/TranslanGo/)
-Some functionality may not work at the moment because of expired cloud credentials, but I am working on fixing that very soon 🤞🏽.
+You can see the site at [https://gaurishg.github.io/TranslanGo/](https://gaurishg.github.io/TranslanGo/).
+
+<img style="max-width: 300px" src="/assets/images/translango/HomePage_en.png">
+_Home Page (English)_
+
+<img style="max-width: 300px" src="/assets/images/translango/ChangeLanguages.png">
+_Work in your native language_
+
+<img style="max-width: 300px" src="/assets/images/translango/ObjectDetectionAndTranslation.png">
+_Detect objects and get translations simultaneously_
+
+<img style="max-width: 300px" src="/assets/images/translango/TextTranslate_en.png">
+_Translate Text also_
+
+<img style="max-width: 300px" src="/assets/images/translango/TextTranslate_hi.png">
+_Complete App interface in your language_
+
+<img style="max-width: 300px" src="/assets/images/translango/Games.png">
+_Gamification_
+
+
+
+
+
+
+
+
+
